@@ -6,7 +6,7 @@ a middleware backend is required by Learning Tools Interoperability (LTI). Our [
 
 > Jump to our main repository: [CAHLR/OATutor](https://github.com/CAHLR/OATutor)
 
-> [Quick clone and deploy notebook example](https://colab.research.google.com/drive/15rzSOLT8EtfJM_Ts1ZQZYuT-FvJp2SW1?usp=sharing)
+> [Quick clone and deploy notebook example](https://colab.research.google.com/drive/1jdbTEd7SWoC-rrV1RPPed9MeBoFWewRP?usp=sharing)
 
 ## Content 
 
