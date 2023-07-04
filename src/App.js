@@ -66,7 +66,7 @@ const treatmentMapping = {
     },
     hintPathway: {
         0: "DefaultPathway",
-        1: "DefaultPathway"
+        1: "NewPathway"
     }
 }
 
