@@ -15,10 +15,10 @@ This GPT Study repository contains the version of OATutor and its problems that 
 > Jump to our website: [OATutor.io](OATutor.io)
 >
 The questions contained in this repo (in our experiment) come from:
-*[Elementary Algebra - Lesson 2.1](https://openstax.org/books/elementary-algebra-2e/pages/2-1-solve-equations-using-the-subtraction-and-addition-properties-of-equality)
-*[Intermediate Algebra - Lesson 2.1](https://openstax.org/books/intermediate-algebra-2e/pages/2-1-use-a-general-strategy-to-solve-linear-equations)
-*[College Algebra - Lesson 2.2](https://openstax.org/books/college-algebra-2e/pages/2-2-linear-equations-in-one-variable)
-*[Statistics - Lesson 3.2](https://openstax.org/books/statistics/pages/3-2-independent-and-mutually-exclusive-events)
+* [Elementary Algebra - Lesson 2.1](https://openstax.org/books/elementary-algebra-2e/pages/2-1-solve-equations-using-the-subtraction-and-addition-properties-of-equality)
+* [Intermediate Algebra - Lesson 2.1](https://openstax.org/books/intermediate-algebra-2e/pages/2-1-use-a-general-strategy-to-solve-linear-equations)
+* [College Algebra - Lesson 2.2](https://openstax.org/books/college-algebra-2e/pages/2-2-linear-equations-in-one-variable)
+* [Statistics - Lesson 3.2](https://openstax.org/books/statistics/pages/3-2-independent-and-mutually-exclusive-events)
 
 ## License/Attribution
 
