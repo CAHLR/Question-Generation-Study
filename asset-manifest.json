@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OATutor-GPT-Study/static/css/main.327544e4.css",
-    "main.js": "/OATutor-GPT-Study/static/js/main.66036b83.js",
+    "main.js": "/OATutor-GPT-Study/static/js/main.ed88c379.js",
     "static/media/Symbola.svg": "/OATutor-GPT-Study/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/OATutor-GPT-Study/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/OATutor-GPT-Study/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
@@ -9,10 +9,10 @@
     "static/media/Symbola.woff2": "/OATutor-GPT-Study/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-GPT-Study/index.html",
     "main.327544e4.css.map": "/OATutor-GPT-Study/static/css/main.327544e4.css.map",
-    "main.66036b83.js.map": "/OATutor-GPT-Study/static/js/main.66036b83.js.map"
+    "main.ed88c379.js.map": "/OATutor-GPT-Study/static/js/main.ed88c379.js.map"
   },
   "entrypoints": [
     "static/css/main.327544e4.css",
-    "static/js/main.66036b83.js"
+    "static/js/main.ed88c379.js"
   ]
 }
